@@ -1,0 +1,15 @@
+/temp.csv
+
+.idea/
+
+helpers/__pycache__/
+
+*.pyc
+
+venv/Lib/site-packages/
+
+venv/Scripts/
+
+venv/Lib/tcl8.6/init.tcl
+
+venv/pyvenv.cfg

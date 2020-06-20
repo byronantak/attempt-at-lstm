@@ -1,0 +1,56 @@
+{
+    "temp": {
+        "mean": 22.770055163340185,
+        "std_dev_mean": 3.2591665428875367,
+        "nan_count_avg": 7.673659823669476,
+        "min": 13.78333333,
+        "max": 36.53333333,
+        "min_nan_row": 0,
+        "max_nan_row": 108
+    },
+    "precip": {
+        "mean": 0.16538520256012898,
+        "std_dev_mean": 0.9136792450091507,
+        "nan_count_avg": 7.643863826501062,
+        "min": 0.0,
+        "max": 45.833,
+        "min_nan_row": 0,
+        "max_nan_row": 108
+    },
+    "rel_humidity": {
+        "mean": 0.7950560669583159,
+        "std_dev_mean": 0.12940608519892638,
+        "nan_count_avg": 7.6010039256065385,
+        "min": 0.172416667,
+        "max": 1.0,
+        "min_nan_row": 0,
+        "max_nan_row": 108
+    },
+    "wind_dir": {
+        "mean": 197.79196683183955,
+        "std_dev_mean": 106.59738995225936,
+        "nan_count_avg": 12.541798056502993,
+        "min": 0.012509863,
+        "max": 359.9973829,
+        "min_nan_row": 0,
+        "max_nan_row": 108
+    },
+    "wind_spd": {
+        "mean": 1.0656445318624321,
+        "std_dev_mean": 0.5531866791880852,
+        "nan_count_avg": 12.541798056502993,
+        "min": 0.123333333,
+        "max": 24.86666667,
+        "min_nan_row": 0,
+        "max_nan_row": 108
+    },
+    "atmos_press": {
+        "mean": 89.03760254687644,
+        "std_dev_mean": 0.14670311892961188,
+        "nan_count_avg": 7.3863182959006375,
+        "min": 87.25,
+        "max": 91.13083333,
+        "min_nan_row": 0,
+        "max_nan_row": 108
+    }
+}

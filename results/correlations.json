@@ -1,0 +1,127 @@
+{
+    "correlations": [
+        {
+            "cols": "(temp, rel_humidity)",
+            "col1": "temp",
+            "col2": "rel_humidity",
+            "number_unable_to_calculate": 14216,
+            "mean_correlation": 0.9198193398661272,
+            "std_dev_correlation": 0.08440643083625876
+        },
+        {
+            "cols": "(temp, precip)",
+            "col1": "temp",
+            "col2": "precip",
+            "number_unable_to_calculate": 15539,
+            "unable_to_calculate": true,
+            "mean_correlation": NaN,
+            "std_dev_correlation": NaN
+        },
+        {
+            "cols": "(temp, wind_dir)",
+            "col1": "temp",
+            "col2": "wind_dir",
+            "number_unable_to_calculate": 14600,
+            "mean_correlation": 0.8688667890174032,
+            "std_dev_correlation": 0.10943403967435335
+        },
+        {
+            "cols": "(temp, wind_spd)",
+            "col1": "temp",
+            "col2": "wind_spd",
+            "number_unable_to_calculate": 13524,
+            "mean_correlation": 0.9542896321111476,
+            "std_dev_correlation": 0.05430479912297936
+        },
+        {
+            "cols": "(temp, atmos_press)",
+            "col1": "temp",
+            "col2": "atmos_press",
+            "number_unable_to_calculate": 14398,
+            "mean_correlation": 0.941751388140382,
+            "std_dev_correlation": 0.050289872477885356
+        },
+        {
+            "cols": "(rel_humidity, precip)",
+            "col1": "rel_humidity",
+            "col2": "precip",
+            "number_unable_to_calculate": 15539,
+            "unable_to_calculate": true,
+            "mean_correlation": NaN,
+            "std_dev_correlation": NaN
+        },
+        {
+            "cols": "(rel_humidity, wind_dir)",
+            "col1": "rel_humidity",
+            "col2": "wind_dir",
+            "number_unable_to_calculate": 13749,
+            "mean_correlation": 0.9431297893356432,
+            "std_dev_correlation": 0.042603085593553844
+        },
+        {
+            "cols": "(rel_humidity, wind_spd)",
+            "col1": "rel_humidity",
+            "col2": "wind_spd",
+            "number_unable_to_calculate": 14019,
+            "mean_correlation": 0.847374169637538,
+            "std_dev_correlation": 0.11841572560962797
+        },
+        {
+            "cols": "(rel_humidity, atmos_press)",
+            "col1": "rel_humidity",
+            "col2": "atmos_press",
+            "number_unable_to_calculate": 14715,
+            "mean_correlation": 0.9618878837908692,
+            "std_dev_correlation": 0.034811491894567746
+        },
+        {
+            "cols": "(precip, wind_dir)",
+            "col1": "precip",
+            "col2": "wind_dir",
+            "number_unable_to_calculate": 15537,
+            "mean_correlation": 0.651058765543558,
+            "std_dev_correlation": 0.014664629200686636
+        },
+        {
+            "cols": "(precip, wind_spd)",
+            "col1": "precip",
+            "col2": "wind_spd",
+            "number_unable_to_calculate": 15537,
+            "mean_correlation": 0.8141950287161306,
+            "std_dev_correlation": 0.032089101389162496
+        },
+        {
+            "cols": "(precip, atmos_press)",
+            "col1": "precip",
+            "col2": "atmos_press",
+            "number_unable_to_calculate": 15539,
+            "unable_to_calculate": true,
+            "mean_correlation": NaN,
+            "std_dev_correlation": NaN
+        },
+        {
+            "cols": "(wind_dir, wind_spd)",
+            "col1": "wind_dir",
+            "col2": "wind_spd",
+            "number_unable_to_calculate": 13815,
+            "mean_correlation": 0.8214812236493216,
+            "std_dev_correlation": 0.11841838783480682
+        },
+        {
+            "cols": "(wind_dir, atmos_press)",
+            "col1": "wind_dir",
+            "col2": "atmos_press",
+            "number_unable_to_calculate": 15045,
+            "mean_correlation": 0.9206917850743507,
+            "std_dev_correlation": 0.05921539340695003
+        },
+        {
+            "cols": "(wind_spd, atmos_press)",
+            "col1": "wind_spd",
+            "col2": "atmos_press",
+            "number_unable_to_calculate": 14681,
+            "mean_correlation": 0.9038378558612682,
+            "std_dev_correlation": 0.07481210083046161
+        }
+    ]
+}
